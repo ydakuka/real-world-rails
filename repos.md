@@ -386,10 +386,6 @@ GitHub issues made awesome [https://huboard.com](https://huboard.com)
 Create agents that monitor and act on your behalf.  Your agents are standing by!  
 [https://github.com/cantino/huginn](https://github.com/cantino/huginn)
 
-### kitsu-tools
-:hammer: The tools we use to build Kitsu, the coolest platform for anime and manga [https://kitsu.io](https://kitsu.io)  
-[https://github.com/hummingbird-me/hummingbird](https://github.com/hummingbird-me/hummingbird)
-
 ### hyku
 Hyku: A multi-tenant Hyrax application built on the latest and greatest Samvera community components. Brought to you by the Hydra-in-a-Box project partners and IMLS; maintained by the Hyku Interest Group. [https://samvera.atlassian.net/wiki/spaces/hyku/overview](https://samvera.atlassian.net/wiki/spaces/hyku/overview)  
 [https://github.com/samvera-labs/hyku](https://github.com/samvera-labs/hyku)
@@ -429,6 +425,10 @@ Katello integrates open source systems management tools into a single solution f
 ### kevlar
 Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server. [http://kevlar.io](http://kevlar.io)  
 [https://github.com/adambutler/kevlar](https://github.com/adambutler/kevlar)
+
+### kitsu-server
+:steam_locomotive: Rails API server for Kitsu [https://kitsu.io](https://kitsu.io)  
+[https://github.com/hummingbird-me/kitsu-server](https://github.com/hummingbird-me/kitsu-server)
 
 ### klaxon
 Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes. [https://newsklaxon.org](https://newsklaxon.org)  
@@ -599,7 +599,7 @@ Politwoops web front end
 [https://github.com/sunlightlabs/politwoops](https://github.com/sunlightlabs/politwoops)
 
 ### postal
-✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail [https://postalserver.io](https://postalserver.io)  
+📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail [https://postalserver.io](https://postalserver.io)  
 [https://github.com/atech/postal](https://github.com/atech/postal)
 
 ### postgresql_lo_streamer
