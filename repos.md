@@ -74,7 +74,7 @@ Provide a Freedom of Information request system for your jurisdiction [https://a
 [https://github.com/mysociety/alaveteli](https://github.com/mysociety/alaveteli)
 
 ### alchemy_cms
-AlchemyCMS is a Rails CMS engine [https://www.alchemy-cms.com](https://www.alchemy-cms.com)  
+Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. [https://www.alchemy-cms.com](https://www.alchemy-cms.com)  
 [https://github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms)
 
 ### alonetone
