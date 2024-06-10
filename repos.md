@@ -121,7 +121,7 @@ An open source community calendar platform written in Ruby on Rails [https://cal
 [https://github.com/calagator/calagator](https://github.com/calagator/calagator)
 
 ### camaleon-cms
-Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails [http://camaleon.tuzitio.com/](http://camaleon.tuzitio.com/)  
+Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails [https://camaleon.website](https://camaleon.website)  
 [https://github.com/owen2345/camaleon-cms](https://github.com/owen2345/camaleon-cms)
 
 ### cangaroo
@@ -343,7 +343,7 @@ GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com [ht
 [https://github.com/gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
 ### griddler
-Simplify receiving email in Rails [http://griddler.io/](http://griddler.io/)  
+Simplify receiving email in Rails (deprecated) [http://griddler.io/](http://griddler.io/)  
 [https://github.com/thoughtbot/griddler](https://github.com/thoughtbot/griddler)
 
 ### growstuff
@@ -402,7 +402,7 @@ Login.gov Core App: Identity Provider (IdP) [https://secure.login.gov/](https://
 Free, open source mental health communication web app to share experiences with loved ones [http://www.if-me.org/](http://www.if-me.org/)  
 [https://github.com/julianguyen/ifme](https://github.com/julianguyen/ifme)
 
-### imminence
+### places-manager
 "Find My Nearest" API and management tools on GOV.UK [https://docs.publishing.service.gov.uk/apps/imminence.html](https://docs.publishing.service.gov.uk/apps/imminence.html)  
 [https://github.com/alphagov/imminence](https://github.com/alphagov/imminence)
 
@@ -755,7 +755,7 @@ A simple UI for browsing and inspecting diffs, and an API for runner scripts to 
 [https://github.com/wearefriday/spectre](https://github.com/wearefriday/spectre)
 
 ### spree
-Open Source eCommerce platform for global brands. An alternative to Shopify, Salesforce Commerce Cloud, Adobe Commerce etc. 🛒 [https://spreecommerce.org](https://spreecommerce.org)  
+An open source eCommerce platform giving you full control and customizability. Modular and API-first. Build any eCommerce solution that your business requires. [https://spreecommerce.org](https://spreecommerce.org)  
 [https://github.com/spree/spree](https://github.com/spree/spree)
 
 ### stripe_event
@@ -775,7 +775,7 @@ Main Website for The Odin Project [http://www.theodinproject.com](http://www.the
 [https://github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject)
 
 ### thredded
-The best Rails forums engine ever. [https://thredded.org](https://thredded.org)  
+The best Rails forums engine ever.  
 [https://github.com/thredded/thredded](https://github.com/thredded/thredded)
 
 ### timeoverflow
